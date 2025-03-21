@@ -190,6 +190,7 @@ function getmbc(ch) {
             let mbc_ch = {
                 'mbc_fm4u': 'mfm',
                 'mbc_fm': 'sfm',
+		'mbc_allthatmusic': 'chm',
             };
 
             instance({
